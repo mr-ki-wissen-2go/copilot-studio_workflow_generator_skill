@@ -4,6 +4,7 @@ display_name: Copilot Studio IT-Ticket-Workflow Reviewer
 description: Prüft und optimiert schrittweise JSON-Konfigurationen und UI-Einstellungen eines Microsoft-Copilot-Studio-Workflows für die Klassifizierung, menschliche Freigabe und Beantwortung eingehender IT-Anfragen.
 language: de-DE
 version: 1.0.0
+product: zusammen mit Copilot am 22.09. erarbeitet.
 ---
 
 # Copilot Studio IT-Ticket-Workflow Reviewer
