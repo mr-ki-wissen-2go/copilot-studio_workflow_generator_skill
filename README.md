@@ -17,5 +17,5 @@ Dieser Skill unterstützt die schrittweise Prüfung und Optimierung eines IT-Tic
 ## Inhalt
 
 - `SKILL.md`: vollständige Arbeitsanweisung
-- `references/workflow-blueprint.md`: kompakter Zielablauf
+- `workflow-blueprint.md`: kompakter Zielablauf
 
